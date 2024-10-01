@@ -12,3 +12,5 @@ Warning: This is primarily a code exercise. The data was AI-generated and has no
 |Presidente             |President during whose term each minister served                            |
 |U_Pregrado             |University from which the minister graduated with their undergraduate degree|
 |Region_Procedencia     |Region of origin or birthplace of the minister                              |
+
+Link a html: https://alexandrapj.github.io/Networks/minister_network_analysis.html
